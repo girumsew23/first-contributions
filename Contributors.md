@@ -1382,6 +1382,10 @@ varshini
 - [ANSH-champ](https://github.com/ANSH-champ)
 - [UOD](https://github.com/universeofdestruction)
 - [SakthivelRaghupathy](https://github.com/SakthivelRaghupathy)
+<<<<<<< HEAD
 - [PulamoluHemanthSriSai](https://github.com/hemanthsrisai9)
 - [Batsakidis Athanasios](https://github.com/abatsakidis)
 - Girum
+- [Grom0x0](https://github.com/gromix0x0)
+- [Amit Dankner](https://github.com/5z9mqq55vw-art)
+
